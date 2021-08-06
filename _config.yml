@@ -3,7 +3,7 @@
 title: Andrea Nijmeh 
 description: Biomedical and Electrical Engineering Student | affiliations | motto
 
-baseurl:  #name of GitHub repository
+baseurl: /  #name of GitHub repository
 url: "" #custom url to be used instead of GitHub repository
 email: andrea.nijmeh@carleton.ca #
 
