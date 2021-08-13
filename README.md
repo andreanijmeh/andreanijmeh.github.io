@@ -1,10 +1,7 @@
-# Hello Page
+# Welcome to my website 
 
 
 
-A so very simple personal site.
+A simple personal site.
 
-This is a [Fork-n-Go](http://jlord.github.io/forkngo) project, so fork to get started making your own.
-
-See the demo at [jlord.github.io/hello](http://jlord.github.io/hello).
-
+This is a [Fork-n-Go](http://jlord.github.io/forkngo) project
