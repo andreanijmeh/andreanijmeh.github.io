@@ -55,22 +55,6 @@ hr {border-bottom: 3px solid #ee94ef;}
 .inline-list {list-style: none; margin: 0; padding: 0;}
 .inline-list li {display: inline-block;}
 
-.overlay {
-  position: absolute;
-  top: 0;
-  bottom: 0;
-  left: 0;
-  right: 0;
-  height: 100%;
-  width: 100%;
-  opacity: 0;
-  transition: .5s ease;
-  background-color: #008CBA;
-}
-
-.arrow:hover .overlay {
-  opacity: 1;
-}
 
 footer .inline-list li {margin-right: 40px;}
 footer a {border: none; color: #af4d9e;}
