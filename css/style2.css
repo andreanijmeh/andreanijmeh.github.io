@@ -16,7 +16,10 @@ iframe {
   height:850px;
 }
 
-.arrow{  vertical-align: top;}
+#arrow{  
+  position:fixed; 
+	top:0; 
+	left:0; }
   
 body, html {height: 100%;}
 
