@@ -10,6 +10,11 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#eaefd3', end
 
 }
 
+iframe {
+  width:350px;
+  height:536px;
+}
+
 
 body, html {height: 100%;}
 
