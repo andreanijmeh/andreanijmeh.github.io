@@ -32,6 +32,8 @@ a.two{text-decoration: none;color:#A5AC82; border-bottom: none;}
 a.two:hover{color:#A5AC82;font-size:100%;}
 a.one {text-decoration: none; color: #333; border-bottom: 3px solid #af4d9e;}
 a.one:hover {color: #af4d9e; font-size:110%;}
+a.four{border-bottom: none; opacity:1;}
+a.four:hover{opacity:0.5;}
 p {font-weight: 200; font-size: 20px;}
 
 .name {font-family: 'Montserrat'sans-serif; 
