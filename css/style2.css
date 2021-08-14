@@ -41,12 +41,13 @@ p {font-weight: 200; font-size: 20px;}
 	position: absolute;
 	margin-bottom: 60px; top: 60px; left: 90px;
 	  overflow: hidden; /* Ensures the content is not revealed until the animation */
-  /*border-right: .15em solid orange; /* The typwriter cursor */
+  border-right: .15em solid orange; /* The typwriter cursor */
   white-space: nowrap; /* Keeps the content on a single line */
-  margin: 0 auto; /* Gives that scrolling effect as the typing happens */
+  margin: 0 60px; /* Gives that scrolling effect as the typing happens */
   letter-spacing: .15em; /* Adjust as needed */
   animation: 
     typing 3.5s steps(40, end),
+	  blink-caret .75s step-end infinite;
 
 }
 
@@ -55,7 +56,10 @@ p {font-weight: 200; font-size: 20px;}
   to { width: 100% }
 }
 
-
+@keyframes blink-caret {
+  from, to { border-color: transparent }
+  50% { border-color: #A5AC82; }
+}
 
 
 
