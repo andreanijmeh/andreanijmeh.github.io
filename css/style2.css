@@ -47,7 +47,6 @@ p {font-weight: 200; font-size: 20px;}
   letter-spacing: .15em; /* Adjust as needed */
   animation: 
     typing 3.5s steps(40, end),
-    blink-caret .75s step-end .75s;
 
 }
 
@@ -56,11 +55,7 @@ p {font-weight: 200; font-size: 20px;}
   to { width: 100% }
 }
 
-/* The typewriter cursor effect */
-@keyframes blink-caret {
-  from, to { border-color: transparent }
-  50% { border-color: #a5ac82; }
-}
+
 
 
 
