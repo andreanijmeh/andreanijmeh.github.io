@@ -79,7 +79,7 @@ article::after {
 } */
 hr {border-bottom: 3px solid #ee94ef;}
 
-.meta {text-transform: uppercase; font-family:'Poppins',sans-serif, Arial, Courier New, Source Sans Pro, sans-serif; font-size: 12px; letter-spacing: .15em;}
+.meta {text-transform: uppercase; font-family: Poppins,sans-serif, Arial, Courier New, Source Sans Pro, sans-serif; font-size: 12px; letter-spacing: .15em;}
 .meta a:hover {color: #333;}
 
 .inline-list {list-style: none; margin: 0; padding: 0;}
