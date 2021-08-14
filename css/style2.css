@@ -24,7 +24,7 @@ iframe {
   
 body, html {height: 100%;}
 
-.wrapper {box-sizing: border-box; height: 100%; overflow: auto; }
+.wrapper {box-sizing: border-box; height: 100%; overflow: hidden; }
 
 
 a {text-decoration: none; color: #333; border-bottom: 3px solid #af4d9e;}
