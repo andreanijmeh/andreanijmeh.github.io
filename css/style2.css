@@ -24,7 +24,7 @@ iframe {
   
 body, html {height: 100%;}
 
-.wrapper {box-sizing: border-box; height: 100%; overflow: hidden; }
+.wrapper {box-sizing: border-box; height: 100%; overflow: auto; }
 
 
 a {text-decoration: none; color: #333; border-bottom: 3px solid #af4d9e;}
@@ -58,7 +58,7 @@ opacity:0.5;
 
 
 
-.container {margin: 0 auto; width: 820px; padding: 120px 12px 50px; overflow: auto;display:flex}
+.container {margin: 0 auto; width: 820px; padding: 120px 12px 50px; overflow: auto;}
 article {padding: 60px;}
 /* TODO find better cross-platform characters */
 /* article::before {
