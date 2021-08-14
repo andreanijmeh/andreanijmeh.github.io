@@ -59,7 +59,7 @@ p {font-weight: 200; font-size: 20px;}
 /* The typewriter cursor effect */
 @keyframes blink-caret {
   from, to { border-color: transparent }
-  50% { border-color: orange; }
+  50% { border-color: #a5ac82; }
 }
 
 
