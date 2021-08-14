@@ -27,7 +27,7 @@ body, html {height: 100%;}
 
 
 a {text-decoration: none; color: #333; border-bottom: 3px solid #af4d9e;}
-a:hover {color: #af4d9e}
+a:hover {color: #af4d9e; font-size:110%;}
 p {font-weight: 200; font-size: 20px;}
 
 .name {font-family: 'Montserrat'sans-serif; 
@@ -44,6 +44,14 @@ p {font-weight: 200; font-size: 20px;}
 
 }
 
+.fade
+{
+	opacity:1;
+}
+.fade:hover
+{
+	opacity:0.5;
+}
 
 .container {margin: 0 auto; width: 820px; padding: 120px 12px 50px; overflow: auto;}
 article {padding: 60px;}
